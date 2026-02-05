@@ -4,6 +4,6 @@ This repository contains multiple major projects completed as part of my Electro
 
 ## Project List
 1. Single-Stage Operational Amplifier
-2. Project 2 – Title will be updated
+2. Two-Stage Operational Amplifier
 
 Each project includes design details, implementation files and results.
