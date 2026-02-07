@@ -33,3 +33,6 @@ Simulations were performed to evaluate stability, offset voltage, power supply r
  - Schematic_netlist_layout
  - Simulation
  - Images
+   
+## License
+This project is protected under the license defined in the parent repository.
