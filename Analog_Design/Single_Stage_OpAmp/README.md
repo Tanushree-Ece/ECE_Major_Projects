@@ -31,12 +31,11 @@ Simulations were performed to evaluate stability, offset voltage, power supply r
  - Simulation
  - Images
 
-
-
-
-
-
 ## Notes
 - Transistor sizing chosen to meet gain and power constraints
 - Design focuses on understanding core analog trade-offs
+
+ ## License
+This project is protected under the license defined in the parent repository.
+
 
