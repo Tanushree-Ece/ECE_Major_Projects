@@ -22,12 +22,12 @@ Folder: 'Single_Stage_OpAmp'
 ### Two Stage Operational Amplifier
 Design of a two-stage CMOS operational amplifier with improved gain and output swing compared to single-stage designs.  
 Includes frequency response and stability analysis.
- Folder: 'Two_Stage_OpAmp'
+ Folder: 'Two_Stage_Opam'
 
 ###  Low Dropout Regulator (LDO)
 Design and simulation of a low dropout voltage regulator for stable voltage regulation.  
 Analysis includes line regulation, load regulation, and no load regulation.
- Folder: 'LDO'
+ Folder: 'Low_Dropout_Voltage'
 
 
 ##  Notes
