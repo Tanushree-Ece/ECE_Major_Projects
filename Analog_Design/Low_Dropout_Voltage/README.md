@@ -1,4 +1,4 @@
-*# Low Dropout Voltage Regulator (LDO)
+## Low Dropout Voltage Regulator (LDO)
 
 This repository contains the design and simulation of a **CMOS Low Dropout Voltage Regulator (LDO)** implemented using analog IC design principles.
 
