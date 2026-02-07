@@ -32,4 +32,4 @@ The complete design flow, architecture, and simulation results are documented in
 **Tanushree L**  
 Electronics and Communication Engineering  
 Interested in Analog & Power VLSI Design
-**
+
