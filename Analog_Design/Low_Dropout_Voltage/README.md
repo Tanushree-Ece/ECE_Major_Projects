@@ -33,3 +33,7 @@ The complete design flow, architecture, and simulation results are documented in
 Electronics and Communication Engineering  
 Interested in Analog & Power VLSI Design
 
+## License
+This project is protected under the license defined in the parent repository.
+
+
