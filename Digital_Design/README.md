@@ -5,14 +5,15 @@ The projects focus on RTL design, functional verification, timing analysis, and 
 
 ## Tools and Technologies
 
--Verilog / SystemVerilog
--Cadence Xcelium / Genus
--GTKWave
--Icarus Verilog
--FSM Design
--Static Timing Analysis (STA)
--Low Power Design Techniques
--UVM-based Verification
+- Verilog / SystemVerilog
+- Cadence Genus
+- GTKWave
+- Icarus Verilog
+- FSM Design
+- Static Timing Analysis (STA)
+- Low Power Design Techniques
+- UVM-based Verification
+- Xllinx Vivado
 
 ## Projects 
 to be updated in due time
